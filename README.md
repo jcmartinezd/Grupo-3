@@ -9,3 +9,5 @@ El sistema debe permitir:
 4. Consultar el integrante con más seguidores.
 5. Consultar la cantidad de integrantes que tienen un género favorito dado.
 6. Consultar el porcentaje de ganancias de un integrante con respecto a la banda
+
+válido
